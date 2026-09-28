@@ -7,3 +7,5 @@ Bonus: Create an attribute for the photo in the User class. (+1 point)
 Generate getters & setters for all attributes in the User class.
 Create a toString method - which returns the string with all of the user inputs.
 Use the User.toString() method in the success popup message.
+Enter the details in jframe and submit
+<img width="370" height="274" alt="image" src="https://github.com/user-attachments/assets/47c7df5a-054b-4afd-a1bc-2ec60c86b527" />
